@@ -1,0 +1,10 @@
+datas/
+logs/
+__pycache__/
+.ipynb_checkpoints/
+*.py[cod]
+*$py.class
+.DS_Store
+*.csv
+*.txt
+*.json
